@@ -1,0 +1,50 @@
+/* Webfont: Yekan */
+@font-face {
+    font-family: 'iranYekan';
+    src: url('../fonts/iranyekanwebmedium.woff');
+    /* IE9 Compat Modes */
+    font-weight: medium;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    font-display: auto;
+}
+
+@font-face {
+    font-family: 'iranYekan';
+    src: url('../fonts/iranyekanwebregular.woff');
+    /* IE9 Compat Modes */
+    font-weight: normal;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    font-display: auto;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('../fonts/YekanBakhBold.woff');
+    /* IE9 Compat Modes */
+    font-weight: bold;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    font-display: auto;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('../fonts/YekanBakhHeavy.woff');
+    /* IE9 Compat Modes */
+    font-weight: bolder;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    font-display: auto;
+}
+
+@font-face {
+    font-family: 'iranYekan';
+    src: url('../fonts/YekanBakhMedium.woff');
+    /* IE9 Compat Modes */
+    font-weight: normals;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    font-display: auto;
+}
